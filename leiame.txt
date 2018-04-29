@@ -1,0 +1,4 @@
+Os comandos estudados foram:
+git status (Comando para visualizar os arquivos incorporados ao git)
+git add -A (Comando para adicionar arquivos novos à tela do git)
+git commit -m (Comando para comitar, ou seja, indexar os arquivos do git local ao git web)
